@@ -1,0 +1,13 @@
+#MainBody{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    border: 5px solid black;
+    border-radius: 20px;
+}
+
+#block{
+    border: 15px solid black;
+    border-radius: 20px;
+}
+
